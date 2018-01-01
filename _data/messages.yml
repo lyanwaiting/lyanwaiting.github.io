@@ -41,12 +41,12 @@ locales:
 
   # Chinese translation  
   # -------------------  
-    zh: &DEFAULT_ZH  
+  zh: &DEFAULT_ZH  
     <<: *DEFAULT_ZH    # load English values as default  
     overview: "总览"  
     toc: "目录"  
     written_by: "撰写者"  
     updated: "更新日期："  
     share: "分享"  
-    zh_TW:  
+  zh_CN:  
     <<: *DEFAULT_DE     # use German translation for de_DE  
