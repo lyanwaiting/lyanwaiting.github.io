@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Teaching
+  url: /teaching/
+  excerpt: 使用github搭建网站
+  image: 300x200.gif
