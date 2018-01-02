@@ -103,13 +103,13 @@ $sliding-menu-animation        ": all 500ms cubic-bezier(.86,.01,.77,.78);"
    Badge variables
    ========================================================================== */
 
-$badge-background              : primary-color;
-$badge-dark-color              : black;
-$badge-danger-color            : danger-color;
-$badge-info-color              : info-color;
-$badge-warning-color           : warning-color;
-$badge-success-color           : success-color;
-$badge-font-color              : white;
+$badge-background              ": primary-color;"
+$badge-dark-color              ": black;"
+$badge-danger-color            ": danger-color;"
+$badge-info-color              ": info-color;"
+$badge-warning-color           ": warning-color;"
+$badge-success-color           ": success-color;"
+$badge-font-color              ": white;"
 
 
 /*
