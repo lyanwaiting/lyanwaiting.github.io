@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Collection 作品集
+  url: /collection/
+  excerpt: 往期网页及可视化作品
+  image: 300x200.gif
+  
+- title: Learning notes 学习笔记
+  url: /learning notes/
+  excerpt:记录知识点
+  image： 300x200.gif
+  
+- title: Contact 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image：300x200.gif
