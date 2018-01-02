@@ -41,7 +41,7 @@
    z-index: 20; 
    box-sizing: border-box; 
    &:hover { 
-     background: $lemon; 
+     background: $lemon;
    } 
    transition: $sliding-menu-animation; 
    &.slide { 
