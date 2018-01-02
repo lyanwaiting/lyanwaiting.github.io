@@ -37,22 +37,23 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $lemon;
   }
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
-    @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+    /* disable reset slide position
+	@include media($medium) {
+      transform: translateX(em(-600)); 
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-900)); 
     }
-  }
+  */
+}
 }
 
-/*
    Sliding content
    ========================================================================== */
 
@@ -142,6 +143,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+	  border: 3px solid $lemon
     }
     .title {
       display: block;
@@ -165,7 +167,7 @@
     }
   }
   .sub-menu-item > li a {
-    display: block;
+    display: $lemon;
     color: $white;
     font-style: italic;
   }
