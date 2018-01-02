@@ -1,8 +1,8 @@
 ---  
-layout: default  
+layout:  article 
 title:  "先自裝Ruby"  
 date:   2017-11-30 22:07:50 +0800  
-categories: tech Jekyll
+categories: notes_tech Jekyll
 image:
   feature: gembox.png
   teaser: gembox.png
