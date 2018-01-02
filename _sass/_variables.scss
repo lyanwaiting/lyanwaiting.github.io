@@ -7,7 +7,7 @@
    ========================================================================== */
 
 $base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$heading-font                	: YouYuan,\\5E7C\5706,幼圆,"Helvetica Neue","Segoe UI",Arial,sans-serif; 
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
@@ -19,22 +19,25 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   ========================================================================== */
-
-$white                        : #fff;
-$black                        : #000;
-
-$body-color                  	: #ebebeb;
-
-$text-color                  	: #313130;
+   Background : Oxford Blue #002147  http://encycolorpedia.cn/002147  
+   奶油色／Cream #fffdd0  
+   ========================================================================== */ 
+   
+$white                        : #fff;   
+$black                        : #000;  31    $black                        : #000;  
+-$teal                        : #008080  32   +$oxfordblue                   : #002147;  
++$cream                       : #fffdd0;  
++$lemon                       : #fff700;
+$body-color                   : #ebebeb   
+$text-color                   : #313130
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #343434;
+$base-color                  	: $oxfordblue;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $black;
+$primary-color               	: $oxfordblue;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -80,11 +83,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
+$sliding-menu-border-color	 	 : $oxfordblue;
+$sliding-menu-background 		   : $oxfordblue;
 $sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $white;
+$sliding-menu-background-hover : $oxfordblue;
+$sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
