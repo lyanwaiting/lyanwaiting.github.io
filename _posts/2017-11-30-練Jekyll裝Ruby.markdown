@@ -1,13 +1,21 @@
 ---  
 layout: default  
-title:  "欲練Jekyll神功，必先自裝Ruby"  
+title:  "先自裝Ruby"  
 date:   2017-11-30 22:07:50 +0800  
-categories: Jekyll Ruby update  
+categories: Jekyll Ruby
+image:
+  teaser: gembox.png  
+  feature: gembox.png  
+  credit: Ruby Installer for Windows  
+  creditlink: https://rubyinstaller.org  
 ---  
 欲練 `Jekyll` 神功，必先自裝 `Ruby` 這腳本語言的開發環境。  
-  
+![Ruby](https://www.ruby-lang.org/images/header-ruby-logo.png
+
 現在2017年年底的情境下，在微軟視窗環境裝 `Ruby` ，可以使用[RubyInstaller for Windows][rubyinstaller] 減少不必要的痛苦及麻煩。仍會遇到點問題，請細讀以下內容做準備。  
-  
+ 
+![Ruby Installer for Windows](gembox.png) 
+
 ## 从 RubyInstaller 起步的自裝策略：缺啥裝啥  
   
 現在，個人同意 [Rei在Ruby-China的社群網站的看法][Rei_Ruby-China]  (2015年06月26日)：  
@@ -30,7 +38,7 @@ categories: Jekyll Ruby update
   
 經過這些年的發展，在微軟視窗環境使用 Ruby 的問題雖未獲完整解決，但若是使用較簡單的模塊如 `Jekyll` ，已不是什麼太大的問題，所以建議从 RubyInstaller 起步，遇到问题逐个解决補上所需的gem包比较好。  
   
-中国Ruby China用戶 [ericguo 亦有打包  Rails 在 Windows 下的完整开发环境压缩包][Rei_Ruby-China]，好處是解壓了應該能用，壞處是裝了不少的東西，佔的空間比較大，且版本可能不是最新的ruby 2.4.2p198 (2017-09-14 revision 59899。  
+中国Ruby China用戶 [ericguo 亦有打包  Rails 在 Windows 下的完整开发环境压缩包][Rei_Ruby-China]，好處是解壓了應該能用，壞處是裝了不少的東西，佔的空間比較大，且版本可能不是最新的ruby 2.4.2p198 (2017-09-14 revision 59899)。  
   
   
 [rubyinstaller]: https://rubyinstaller.org/downloads/  
