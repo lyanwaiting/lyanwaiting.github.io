@@ -3,11 +3,6 @@ layout: default
 title:  "先自裝Ruby"  
 date:   2017-11-30 22:07:50 +0800  
 categories: Jekyll Ruby
-image:
-  teaser: gembox.png  
-  feature: gembox.png  
-  credit: Ruby Installer for Windows  
-  creditlink: https://rubyinstaller.org  
 ---  
 欲練 `Jekyll` 神功，必先自裝 `Ruby` 這腳本語言的開發環境。  
 ![Ruby](https://www.ruby-lang.org/images/header-ruby-logo.png

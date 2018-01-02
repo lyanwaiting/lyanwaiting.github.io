@@ -3,12 +3,6 @@ layout: default
 title:  "可裝GitHub Desktop"  
 date:   2017-12-01 22:07:50 +0800  
 categories: Jekyll GitHub update  
-image:  
-  teaser: github-desktop-icon.svg  
-  feature: github-desktop-icon.svg  
-  credit: Github Desktop   
-  creditlink: https://desktop.github.com/images/desktop-icon.svg  
-
 ---  
 欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。  
   
