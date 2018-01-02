@@ -1,12 +1,17 @@
 # Site navigation links
 
-- title: Collection 作品集
-  url: /collection/
-  excerpt: 往期网页及可视化作品
+- title: 网页设计作品集
+  url: /portfolio/
+  excerpt: 往期网页作品
   image: 300x200.gif
   
-- title: Learning notes 学习笔记
-  url: /learning notes/
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: 往期可视化作品
+  image: 300x200.gif
+  
+- title: 学习笔记
+  url: /posts/
   excerpt: 记录知识点
   image: 300x200.gif
   
