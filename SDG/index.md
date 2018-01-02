@@ -17,7 +17,7 @@ categories: SDG portfolio visualization
 <div class="col-md-3"><!-- left -->
 
 生活在极端贫困中的人口数量显著下降   
-<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 50%" type="image/svg+xml">
+<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 10%" type="image/svg+xml">
 社保系统对脆弱人群的覆盖率仍然不高
 </div> 
 <div class="col-md-9" markdown="1" ><!-- right -->
