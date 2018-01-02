@@ -3,19 +3,19 @@
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: 往期网页作品
-  image: 300x200.gif
+  image: webpage design.gif
   
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: 往期可视化作品
-  image: 300x200.gif
+  image: visualization.gif
   
 - title: 学习笔记
   url: /posts/
   excerpt: 记录知识点
-  image: 300x200.gif
+  image: notes.gif
   
-- title: Contact 联络我
+- title: 联络我
   url: /contact/
   excerpt: "联络我"
-  image: 300x200.gif
+  image: contact me.gif
