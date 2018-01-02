@@ -2,7 +2,7 @@
 layout: default  
 title:  "先自裝Ruby"  
 date:   2017-11-30 22:07:50 +0800  
-categories: Jekyll Ruby
+categories: tech Jekyll
 image:
   feature: gembox.png
   teaser: gembox.png
@@ -12,7 +12,7 @@ image:
 
 現在2017年年底的情境下，在微軟視窗環境裝 `Ruby` ，可以使用[RubyInstaller for Windows][rubyinstaller] 減少不必要的痛苦及麻煩。仍會遇到點問題，請細讀以下內容做準備。  
  
-![Ruby Installer for Windows](.png) 
+![Ruby Installer for Windows](https://rubyinstaller.org/assets/logo.png) 
 
 ## 从 RubyInstaller 起步的自裝策略：缺啥裝啥  
   
