@@ -1,14 +1,14 @@
 # Site navigation links
 
-- title: 网页设计作品集
-  url: /portfolio/
-  excerpt: 往期网页作品
-  image: webpage design.gif
-  
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: 往期可视化作品
   image: visualization.gif
+  
+- title: 网页设计作品集
+  url: /portfolio/
+  excerpt: 往期网页作品
+  image: webpage design.gif
   
 - title: 学习笔记
   url: /posts/
