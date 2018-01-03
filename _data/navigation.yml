@@ -10,12 +10,12 @@
   excerpt: 往期网页作品
   image: webpage design.gif
   
-- title: 学习笔记
+- title: 信息可视化笔记
   url: /posts/
   excerpt: 记录知识点
   image: notes.gif
   
-- title: 联络我
-  url: /contact/
+- title: Web笔记
+  url: /posts/
   excerpt: "Github: Dahulin"
   image: contact me.gif
