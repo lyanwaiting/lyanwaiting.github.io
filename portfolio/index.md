@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "学生作品集"
-date: 2017-12-30T11:40:45-04:00
+title: "信息可视化作品集"
+date: 2018-01-04T03:08:45-04:00
 modified:
-excerpt: "展示学生作品集，好的丶可改进的及有趣的"
+excerpt: "做过的可视化呀"
 tags: []
 image: 
-  feature: Portfolio.svg
-  teaser:
+  feature: 2.gif
+  teaser: 
 ---
 
 在此展示学生作品集，好的丶可改进的及有趣的
