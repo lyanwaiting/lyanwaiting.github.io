@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "如何制作有效的图表"
+title:  "制作图表"
 date:   2018-01-04 02:49:50 +0800
 categories: posts infovis
 image:
