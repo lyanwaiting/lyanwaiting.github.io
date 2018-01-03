@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化作品集"
 date: 2018-01-04T03:08:45-04:00
 modified:
-excerpt: "做过的可视化呀"
+excerpt: "奉献给Tableau的无数夜晚"
 tags: []
 image: 
   feature: 2.gif
