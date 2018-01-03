@@ -1,9 +1,12 @@
-# 
-
-layout | title | categories | image
----|---|---|---
-default | 如何制作有效的图表 | posts infovis | 制图.jpg
-
+---
+layout: default
+title:  "如何制作有效的图表"
+date:   2018-01-04 02:49:50 +0800
+categories: posts infovis
+image:
+  teaser: 制图.jpg
+  feature: 制图.jpg
+---
 
 # 如何制作有效的图表？
 
