@@ -12,6 +12,8 @@ image:
 
 在此展示学生作品集，好的丶可改进的及有趣的
 
+[link](https://public.tableau.com/profile/.86047339#!/vizhome/GDP_221/1_1)
+
 <div class="tiles">
 {% for post in site.categories.portfolio %}
   {% include post-grid.html %}
