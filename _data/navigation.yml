@@ -10,9 +10,9 @@
   excerpt: "做过的可视化呀"
   image: 2.gif
 
-- title: 网页设计笔记
-  url: /contact/
-  excerpt: "笔记"
+- title: 笔记
+  url: /posts/
+  excerpt: "网页设计和信息可视化都有哦"
   image: 3.gif
 
 - title: 联络我
