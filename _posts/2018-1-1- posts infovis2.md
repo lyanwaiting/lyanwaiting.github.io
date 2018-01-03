@@ -1,9 +1,12 @@
-# 
-
-layout | title | categories | image
----|---|---|---
-default | 绘图指南 | posts infovis | 绘图指南.jpg
-
+---
+layout: default
+title:  "绘图"
+date:   2018-01-04 02:55:50 +0800
+categories: posts infovis
+image:
+  teaser: 绘图指南.jpg
+  feature: 绘图指南.jpg
+---
 # 绘图指南
 
 ![image](绘图指南.jpg)
