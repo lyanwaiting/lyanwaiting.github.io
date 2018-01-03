@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "WSG4-12章笔记"
+title:  "css实现响应式全屏背景"
 categories: portfolio notes
 image:
-  teaser: lg.png
+  teaser: e.jpg
 ---
 
 #### css实现响应式全屏背景
