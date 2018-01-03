@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	background-image:
-  url('../images/bg.JPG');
+  url('../images/background.JPG');
 	
   @include font-size(16);
 }
