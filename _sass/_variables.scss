@@ -22,28 +22,27 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Oxford Blue #002147  http://encycolorpedia.cn/002147
+   Background : Pantone #595959  http://encycolorpedia.cn/002147
    奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$oxfordblue                   : #002147;
-$cream                        : #fffdd0;
-$lemon                        : #fff700;
+$Pantone                      : #595959;
+$GoldEnrod                   :: #daa520; 
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $oxfordblue;
+$base-color                  	: $Pantone;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $oxfordblue;
+$primary-color               	: $Pantone;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -89,11 +88,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $oxfordblue;
-$sliding-menu-background 		   : $oxfordblue;
+$sliding-menu-border-color	 	   : $Pantone;
+$sliding-menu-background 		   : $Pantone;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $oxfordblue;
-$sliding-menu-color-hover	 	   : $cream;
+$sliding-menu-background-hover     : $Pantone;
+$sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
 $transition						   : 0.3s; // increase this to see the transformations in slow-motion
