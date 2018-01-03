@@ -3,7 +3,7 @@ layout: default
 title:  "WSG4-12章笔记"
 categories: portfolio notes
 image:
-  teaser: 1.png
+  teaser: lg.png
 ---
 #### 时间压缩技术 Time compression techniques
 - 不要把你最喜欢的电影或电视节目当作模型，在一段三分钟的视频中，你将没有时间来打开片头，开始冗长的说明，飞行和旋转动画的标题，或冗长的结尾和慢吞吞的片头。看看最好的短视频作品，并模仿更相关的美学、图形和编辑的在线流派。
