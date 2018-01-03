@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "联系我"
-date: 2018-01-01T11:40:45-04:00
+title: "网页设计笔记"
+date: 2018-01-02T11:40:45-04:00
 ---
 
 <div class="tiles">
-{% for post in site.categories.webpage %}
+{% for post in site.categories.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
