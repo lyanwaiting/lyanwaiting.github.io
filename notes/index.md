@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "可视化图形笔记"
+title: "学习笔记"
 date: 2018-01-02T11:40:45-04:00
 ---
 
