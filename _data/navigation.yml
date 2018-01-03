@@ -11,11 +11,11 @@
   image: webpage design.gif
   
 - title: 信息可视化笔记
-  url: /posts/
+  url: /posts/infovis/
   excerpt: 记录知识点
   image: notes.gif
   
 - title: Web笔记
-  url: /posts/
+  url: /posts/rwd/
   excerpt: "Github: Dahulin"
   image: contact me.gif
