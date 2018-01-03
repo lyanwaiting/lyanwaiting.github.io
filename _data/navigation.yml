@@ -10,12 +10,9 @@
   excerpt: 可视化
   image: second.gif
 
-- title: 网页设计学习笔记
-  url: /SDG/
+- title: 学习笔记
+  url: /notes/
   excerpt: "课程"
   image: third.gif
 
-- title: 文章（信息可视化）
-  url: /SDG/
-  excerpt: "课程"
-  image: third.gif
+
