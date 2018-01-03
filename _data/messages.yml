@@ -7,7 +7,7 @@ locales:
   en: &DEFAULT_EN
     overview: "Overview"
     toc: "Table of Contents"
-    written_by: "Written by hanteng"
+    written_by: "waiting"
     updated: "Updated"
     share: "Share on"
   en_US:
