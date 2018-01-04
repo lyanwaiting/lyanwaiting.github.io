@@ -6,16 +6,20 @@ modified:
 excerpt: "这里的东西见证着我熬过的夜，"
 tags: []
 image: 
-  feature: 2.gif
-  teaser: 
+  feature: Tbleau图标.jpg
+  teaser: Tbleau图标.jpg
 ---
 
-在此展示学生作品集，好的丶可改进的及有趣的
 ## 期末专题
 ##### 各类餐馆的全国分布
-<div class='tableauPlaceholder' id='viz1510233785827' style='position: relative'><noscript>< a href=' '>< img alt='故事 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2_&#47;2_1967&#47;1_1&#47;1_rss.png' style='border: none' /></ a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2_1967&#47;1_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2_&#47;2_1967&#47;1_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1510233785827');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = https://public.tableau.com/profile/.86047339#!/vizhome/1_4668/1?publish=yes; 
 
-[link](https://public.tableau.com/profile/.86047339#!/vizhome/GDP_221/1_1)
+![image](各类餐厅全国分布.jpg）
+
+这个地图上有中国各个省份的火锅、烧烤、面馆、快餐店的分布情况，可以为人们提供就餐信息，可以给去到一个陌生城市的人提供便利，让他们可以及时解决温饱问题。
+
+[各类餐厅的全国分布](https://public.tableau.com/profile/.86047339#!/vizhome/1_4668/1?publish=yes)
+
+
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
