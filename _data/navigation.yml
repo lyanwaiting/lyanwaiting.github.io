@@ -10,9 +10,13 @@
   excerpt: 个人作品
   image: second.gif
 
-- title: 学习笔记
+- title: 网页设计学习笔记
   url: /notes/
-  excerpt: "课程"
+  excerpt: "知识点"
   image: third.gif
 
+- title: 信息可视化学习笔记
+  url: /notes/
+  excerpt: "知识点"
+  image: third.gif
 
