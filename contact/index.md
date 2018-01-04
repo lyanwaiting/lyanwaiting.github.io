@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "阿莱是谁"
 date: 2018-01-04T03:08:45-04:00
 modified:
-excerpt: "奉献给网页的无数夜晚"
+excerpt: "Who i am"
 tags: []
 image: 
-  feature: 1.gif
+  feature: 4.gif
   teaser: 
 ---
 
