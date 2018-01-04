@@ -7,7 +7,7 @@ excerpt: "这里的东西见证着我熬过的夜，"
 tags: []
 image: 
   feature: Tbleau图标.jpg
-  teaser: Tbleau图标.jpg
+  teaser: 
 ---
 
 ## 期末专题
