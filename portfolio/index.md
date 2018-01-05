@@ -13,7 +13,7 @@ image:
 ## 期末专题
 ### 各类餐馆的全国分布
 
-![](https://github.com/Huangj0830/Huangj0830.github.io/blob/master/images/各类餐厅全国分布.jpg)
+![images](https://github.com/Huangj0830/Huangj0830.github.io/blob/master/images/各类餐厅全国分布.jpg)
 
 这个地图上有中国各个省份的以火锅、烧烤、面馆、快餐为关键词的餐厅的分布情况，可以为人们提供就餐信息，可以为人们提供就餐信息，可以给去到一个陌生城市的人提供便利，让他们可以及时解决温饱问题。（上图是中深圳市以及附近区域的餐厅分布情况）
 
@@ -21,7 +21,7 @@ image:
 
 ---
 
-##期中专题
+## 期中专题
 ### 能源与GDP的关系
 
 ![images](https://github.com/Huangj0830/Huangj0830.github.io/blob/master/images/各地区平均GDP与平均能源消费关系.jpg)
