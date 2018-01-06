@@ -1,14 +1,14 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /infovis/
+  url: /portfolio/
   excerpt: "从无从下手到懂一点点"
   image: 1.gif
 
 - title: 信息可视化作品集
-  url: /portfolio/
+  url: /infovis/
   excerpt: "奉献给Tableau的无数夜晚"
-  image: 2.gif
+  image: Tbleau图标.jpg
 
 - title: 笔记
   url: /_posts/
