@@ -1,14 +1,6 @@
 ---
 layout: archive
 title:  "网页设计笔记"
-date:   2018-01-01 22:07:50 +0800
-modified:
-excerpt:"涉及到web的内容"
-tags: []
----
----
-layout: archive
-title:  "网页设计笔记"
 date:   2018-01-07 01:07:50 +0800
 modified:
 excerpt: "涉及到web的内容"
