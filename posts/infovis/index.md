@@ -1,14 +1,16 @@
 ---
 layout: archive
-title:  "信息可视化笔记"
-date:   2017-11-30 22:07:50 +0800
+title:  "网页设计笔记"
+date:   2018-01-01 22:07:50 +0800
 modified:
-excerpt: "涉及到visualization的内容"
+excerpt:"涉及到web的内容"
 tags: []
 ---
 
+
+
 <div class="tiles">
-{% for post in site.categories.infovisnotes %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 infovisnotes 的列出来-->
+</div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
