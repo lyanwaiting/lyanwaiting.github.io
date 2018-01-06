@@ -1,21 +1,14 @@
 ---
 layout: archive
-title: "网页设计作品集"
-date: 2018-01-04T03:08:45-04:00
+title:  "信息可视化笔记"
+date:   2017-11-30 22:07:50 +0800
 modified:
-excerpt: "奉献给网页的无数夜晚"
+excerpt: "涉及到visualization的内容"
 tags: []
-image: 
-  feature: 1.gif
-  teaser: 
 ---
 
-在此展示学生作品集，好的丶可改进的及有趣的
-
-[link](https://public.tableau.com/profile/.86047339#!/vizhome/GDP_221/1_1)
-
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.infovisnotes %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
+</div><!-- /.tiles 把所有categories 有 infovisnotes 的列出来-->
