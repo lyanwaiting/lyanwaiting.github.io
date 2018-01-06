@@ -10,12 +10,17 @@
   excerpt: "奉献给Tableau的无数夜晚"
   image: Tbleau图标.jpg
 
-- title: 笔记
-  url: /_posts/
-  excerpt: "网页设计和信息可视化都有哦"
+- title: 网页设计笔记
+  url: /posts/rwd/ 
+  excerpt: "做网页的辛酸史"
   image: 3.gif
+  
+  - title:信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "一点干货"
+  image: 2.gif
 
 - title: 看看我是谁
   url: /contact/
-  excerpt: "联络我"
+  excerpt: "Who am i"
   image: 4.gif
