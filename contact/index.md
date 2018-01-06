@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "阿莱是谁"
+title: "网页笔记"
 date: 2018-01-04T03:08:45-04:00
 modified:
-excerpt: "Who i am"
+excerpt: "在学习网页制作的路上蜿蜒前行"
 tags: []
 image: 
   feature: 4.gif
@@ -12,7 +12,7 @@ image:
 
 在此展示学生作品集，好的丶可改进的及有趣的
 
-[link](https://public.tableau.com/profile/.86047339#!/vizhome/GDP_221/1_1)
+
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
