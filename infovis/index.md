@@ -1,6 +1,6 @@
 
 <div class="tiles">
-{% for post in site.categories.可视化期中专题%}
+{% for post in site.categories.table%}
   {% include post-grid.html %}
 {% endfor %}
 </div>
