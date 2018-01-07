@@ -16,7 +16,7 @@ image:
 
 		
 <div class="tiles">
-{% for post in site.categories.posts_infovis %}
+{% for post in site.categories.diagram %}
   {% include post-grid.html %}
 {% endfor %}
 </div>
