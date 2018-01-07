@@ -1,16 +1,15 @@
 ---
 layout: archive
 title: "信息可视化作品集"
-date: 2018-01-07T23:08:45-04:00
+date: 2017-12-30T11:40:45-04:00
 modified:
 excerpt: ""
 tags: []
 image: 
   feature: 
-  teaser: 111.jpg
+  teaser: 
 ---
 
-![image](https://Huangj0830.github.io/images/111.jpg)
 
 <div class="tiles">
 {% for post in site.categories.infovis tableau %}
