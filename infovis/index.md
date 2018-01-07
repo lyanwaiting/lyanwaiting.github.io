@@ -10,7 +10,7 @@ image:
   teaser: 
 ---
 
--![image](https://Huangj0830.github.io/images/111.png)
+-![image](https://Huangj0830.github.io/images/111.jpg)
 
 <div class="tiles">
 {% for post in site.categories.infovis tableau %}
