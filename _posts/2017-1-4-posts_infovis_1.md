@@ -2,7 +2,7 @@
 layout: article  
 title:  "可视化图表笔记"  
 date:   2018-01-04 22:07:50 +0800  
-categories: posts infovis
+categories: posts_infovis
 image:
   teaser: 可视化笔记.png
 ---  
