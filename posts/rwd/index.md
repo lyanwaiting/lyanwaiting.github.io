@@ -15,7 +15,7 @@ image:
 [link](https://public.tableau.com/profile/.86047339#!/vizhome/GDP_221/1_1)
 
 <div class="tiles">
-{% for post in site.categories.infovis tableau %}
+{% for post in site.categories.webnote %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 infovis tableau 的列出來-->
+</div><!-- /.tiles 把所有categories 有 webnote 的列出來-->
