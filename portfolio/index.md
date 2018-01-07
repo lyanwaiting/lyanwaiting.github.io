@@ -5,7 +5,7 @@ date:   2018-1-3
 categories: portfolio
 image:
   teaser: wade.jpg
-  feature: wade.jpg
+  
   
 ---
 
