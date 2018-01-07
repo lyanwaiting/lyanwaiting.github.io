@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
-date: 2018-01-04T03:08:45-04:00
+title: "网页设计笔记"
+date: 2018-01-07T03:08:45-04:00
 modified:
-excerpt: "奉献给网页的无数夜晚"
+excerpt: "做网页的辛酸史"
 tags: []
 image: 
-  feature: 1.gif
+  feature: 3.gif
   teaser: 
 ---
 
