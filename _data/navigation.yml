@@ -10,12 +10,12 @@
   excerpt: "奉献给Tableau的无数夜晚"
   image: Tbleau图标.jpg
   
-  - title: 网页设计作品集
+- title: 网页设计作品集
   url: /posts/rwd/
   excerpt: "做网页的辛酸史"
   image: 1.gif
   
-- title:信息可视化笔记
+- title：信息可视化笔记
   url: /posts/infovis/
   excerpt: "一点干货"
   image: 2.gif
