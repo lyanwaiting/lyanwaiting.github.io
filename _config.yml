@@ -33,7 +33,7 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio: "中山大学南方学院 <a href='http://wcy.nfu.edu.cn/zh/教学系统/培养方案/网络与新媒体/'> 网络与新媒体专业</a>培养方案核心课程学期作品，由<a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</s>指导" 学生
+  bio: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
