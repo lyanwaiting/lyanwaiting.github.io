@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化作品集"
 date: 2018-01-07T23:08:45-04:00
 modified:
-excerpt: ""
+excerpt: "Tableau作品"
 tags: []
 image: 
   feature: 
