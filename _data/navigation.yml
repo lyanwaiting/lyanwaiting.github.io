@@ -2,28 +2,23 @@
 
 - title: 网页设计作品集
   url: /portfolio/ 
-  excerpt: "网页设计的个人作品集"
-  image: love.gif
+  excerpt: "从无从下手到懂一点点"
+  image: 1.gif
 
 - title: 信息可视化作品集
   url: /infovis/ 
-  excerpt: "信息可视化的个人作品集"
-  image: qiu.gif
+  excerpt: "奉献给Tableau的无数夜晚"
+  image: Tableau图标.jpg
   
 - title: 网页设计笔记
   url: /posts/rwd/ 
-  excerpt: "文章" 
-  image: dong.gif
-
-- title: 高德地图作品集
-  url: /gaode/ 
-  excerpt: "高德地图全国电影院对比" 
-  image: dong.gif
+  excerpt: "做网页的辛酸史" 
+  image: 3.gif
 
 - title: 信息可视化笔记
   url: /posts/infovis/
-  excerpt: "notes"
-  image: qiu.gif
+  excerpt: "一点干货"
+  image: 2.gif
 
 - title: 看看我是谁
   url: /contact/
