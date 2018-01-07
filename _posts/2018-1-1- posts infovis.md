@@ -2,7 +2,7 @@
 layout: default
 title:  "制作图表"
 date:   2018-01-04 02:49:50 +0800
-categories: visualization
+categories: posts infovis infovisnotes
 image:
   teaser: 制图.jpg
   feature: 制图.jpg
