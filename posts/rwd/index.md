@@ -2,6 +2,7 @@
 layout: archive
 title: "网页设计笔记"
 date: 2018-01-02T11:40:45-04:00
+categories: rwd
 ---
 
 <div class="tiles">
