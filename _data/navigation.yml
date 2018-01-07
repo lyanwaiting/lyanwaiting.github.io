@@ -10,7 +10,7 @@
   excerpt: "奉献给Tableau的无数夜晚"
   image: Tbleau图标.jpg
   
-  - title:信息可视化笔记
+- title:信息可视化笔记
   url: /posts/infovis/
   excerpt: "一点干货"
   image: 2.gif
