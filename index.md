@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "Ahlai"
 ---
 
 <div class="tiles">
