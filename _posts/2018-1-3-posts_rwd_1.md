@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "WSG4-12章笔记"
-categories: posts rwd
+categories: posts_rwd
 image:
   teaser: lg.png
   teaser: lg.png
