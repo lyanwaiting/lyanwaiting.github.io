@@ -9,11 +9,6 @@
   url: /infovis/
   excerpt: "奉献给Tableau的无数夜晚"
   image: Tbleau图标.jpg
-
-- title: 网页设计笔记
-  url: /posts/rwd/ 
-  excerpt: "做网页的辛酸史"
-  image: 3.gif
   
   - title:信息可视化笔记
   url: /posts/infovis/
