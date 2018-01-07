@@ -2,7 +2,7 @@
 layout: article
 title:  "css实现响应式全屏背景"
 date:   2018-1-3
-categories: posts rwd
+categories: posts_rwd
 image:
   teaser: CSS.jpg
   
